@@ -8,4 +8,4 @@ Możliwe endpointy:
 /groupschedule/{groupNumer} - Plan konkretnej grupy
 /fieldschedule/{field}/{year}/{degree} - Plan konkretnego kierunku, konkretnego roku i stopnia
 
-( niektóre w aktualnej wersji mogą zwracać błąd )
+( niektóre w aktualnej wersji mogą zwracać błąd, ponadto projekt na github nie jest rzeczywistym gotowym projektem )
